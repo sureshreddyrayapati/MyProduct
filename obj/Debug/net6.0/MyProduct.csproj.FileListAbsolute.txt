@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\MyProduct\MyProduct\bin\Debug\net6.0\MyProduct.exe
+C:\Users\dell\source\repos\MyProduct\MyProduct\bin\Debug\net6.0\MyProduct.deps.json
+C:\Users\dell\source\repos\MyProduct\MyProduct\bin\Debug\net6.0\MyProduct.runtimeconfig.json
+C:\Users\dell\source\repos\MyProduct\MyProduct\bin\Debug\net6.0\MyProduct.dll
+C:\Users\dell\source\repos\MyProduct\MyProduct\bin\Debug\net6.0\MyProduct.pdb
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.AssemblyInfo.cs
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.dll
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\refint\MyProduct.dll
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.pdb
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.genruntimeconfig.cache
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\ref\MyProduct.dll
