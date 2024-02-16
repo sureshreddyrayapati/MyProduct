@@ -17,7 +17,7 @@ namespace MyProduct
             { 4,new ProductProp(){ Name="Center fresh",Price=2,Brand="Perfetti",ManufacturingDate=new DateTime(day:1,month:12,year:2023),ExporyDate=new DateTime(day:1,month:12,year:2024)} },
             { 5,new ProductProp(){ Name="santoor",Price=35,Brand="Wipro",ManufacturingDate=new DateTime(day:1,month:12,year:2023),ExporyDate=new DateTime(day:1,month:12,year:2026)} },
             { 6,new ProductProp(){ Name="Milk",Price=60,Brand="Arokya",ManufacturingDate=new DateTime(day:16,month:2,year:2024),ExporyDate=new DateTime(day:20,month:2,year:2024)} },
-            { 6,new ProductProp(){ Name="Milkpowder",Price=260,Brand="Babydown",ManufacturingDate=new DateTime(day:5,month:2,year:2024),ExporyDate=new DateTime(day:20,month:2,year:2025)} }
+            { 7,new ProductProp(){ Name="Milkpowder",Price=260,Brand="Babydown",ManufacturingDate=new DateTime(day:5,month:2,year:2024),ExporyDate=new DateTime(day:20,month:2,year:2025)} }
         };
         public SortedList<int,ProductProp> AllProducts()
         {
