@@ -10,7 +10,7 @@ foreach (var item in obj.AllProducts())
     Console.WriteLine($"Brand             : {item.Value.Brand}");
     Console.WriteLine($"Manufacturing Date: {item.Value.ManufacturingDate.ToShortDateString()}");
     Console.WriteLine($"Expiry Date       : {item.Value.ExporyDate.ToShortDateString()}");
-    Console.WriteLine("-----------------------------------------");
+    Console.WriteLine("----------------------------------");
 }
 
 
