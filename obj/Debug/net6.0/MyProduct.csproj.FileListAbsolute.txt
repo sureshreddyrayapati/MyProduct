@@ -12,3 +12,4 @@ C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\refint\MyProduct
 C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.pdb
 C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.genruntimeconfig.cache
 C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\ref\MyProduct.dll
+C:\Users\dell\source\repos\MyProduct\MyProduct\obj\Debug\net6.0\MyProduct.sourcelink.json
